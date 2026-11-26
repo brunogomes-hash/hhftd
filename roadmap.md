@@ -1,0 +1,28 @@
+# Roadmap
+- [x] Painel B2C e B2B hora a hora com raposa
+- [x] Ligar na planilha real
+- [x] Modo apresentação com rotação, pausa e segundos
+- [x] Hora atual: marcador do ideal até agora
+- [x] Painel cabe inteiro em qualquer tela (atingimento visível)
+- [x] B2C com dados reais da planilha Senior
+- [x] Só duas cores: dentro (inclui acima) ou fora
+- [x] B2B com dados reais
+- [x] Botão para simular meta batida (confete + som)
+- [x] Sem volume = amarelo + raposa 'Cadê os pedidos?'
+- [x] Trocar as três animações enviadas, remover fundo e manter raposa no canto esquerdo
+- [x] Alertar somente no fechamento da hora dentro da meta e mostrar resultado em letreiro de aeroporto
+- [x] Raposa grande em cima do atingimento; caixa zerada = "Cadê os pedidos?" (nunca brava sem peça)
+- [x] Ajustar topo do painel removendo espaços vazios (print do usuário)
+- [x] Exportar os 3 vídeos da raposa com a frase em cima (para outro painel)
+- [x] Corrigir frame da raposa brava que vira a cabeça
+- [x] Frase da raposa (cadê/brava/bora) maior e em cima da animação; balão colado na raposa e ela um pouco maior
+- [x] Caixa com menos peças do que falta para a meta = "Cadê os pedidos?" (nunca brava)
+- [x] Trocar som da sirene por fogos de artifício na comemoração da meta da hora
+- [x] Trocar animação de confete por fogos de artifício
+- [x] Horas das 06:00 às 21:00, encerramento às 22h, 14 horas produtivas e intervalos 12h/19h sem meta
+- [x] Trocar som dos fogos por torcida de futebol (gritaria e comemoração)
+- [x] Raposa gigante no meio da tela narrando as 6 gravações, uma por hora batida
+- [x] Trocar a torcida por sirene animada acompanhando os fogos
+- [x] Trocar raposa feliz pelo vídeo novo
+- [x] Comemoração alterna as seis falas
+- [x] Corrigir ativação do áudio na TV e comemorar somente no canal visível, suspendendo a rotação durante os 20 segundos
